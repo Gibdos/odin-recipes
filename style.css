@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #333333;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+}
+
+h1, h2, h3, p, ul, ol, li {
+    margin: 1em;
+}
+
+ol li {
+    list-style: disc;
+}
